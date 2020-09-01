@@ -1,12 +1,12 @@
 ### Hi Cappuccino 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on <a href="harisarang.github.io/CDI">CDI</a> React Application
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate with Competitive Programmers
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [<a href="https://www.instagram.com/harisaran_g/">Instagram</a>][Instagram]
+- 💬 Ask me about Cryptography
+- 📫 How to reach me: <a href="https://www.instagram.com/harisaran_g/">Instagram</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: If you don't know what recursion is read this again
 
